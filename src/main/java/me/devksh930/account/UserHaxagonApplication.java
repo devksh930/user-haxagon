@@ -1,4 +1,4 @@
-package me.devksh930.userhaxagon;
+package me.devksh930.account;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
